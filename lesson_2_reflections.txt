@@ -29,3 +29,10 @@ How do the diagrams help you visualize the branch structure?
 
     Diagrams make it easier to visualize the relationship (parents)
     of each commit relative to other commits.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+    Git combines the two branches using the most recent commits on each branch
+    and the most recent common ancestor commit. We represent it in the diagram
+    this way to show a different branch going off and then returning to master.
