@@ -24,3 +24,8 @@ history organized? How would branches help?
     When making major changes to the codebase, it is helpful to use a branch.
     This allows you to keep a working version, while trying out new
     experimental features.
+
+How do the diagrams help you visualize the branch structure?
+
+    Diagrams make it easier to visualize the relationship (parents)
+    of each commit relative to other commits.
