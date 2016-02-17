@@ -9,4 +9,16 @@ Why might you want to always pull changes manually rather
 than having Git automatically stay up-to-date with your remote repository?
 
     Other people might also be working on the same repo. If you are
-    always up to date with the remote, you might lose your changes. 
+    always up to date with the remote, you might lose your changes.
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+    A clone is basically a copy/paste of another repo. It keeps a reference
+    to the origin as a remote.
+    A branch is used to try out new features on your machine before
+    merging them back into the master branch.
+    A fork is used to copy a remote repo on to your own github account so
+    you can make changes that the original author may not want. (You must
+    get permission to change another user's repo)
+    
