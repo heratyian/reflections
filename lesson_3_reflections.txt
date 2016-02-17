@@ -1,6 +1,12 @@
 
-When would you want to use a remote repository rather 
+When would you want to use a remote repository rather
 than keeping all your work local?
 
-  When working with other people on the same files it is
-  advantageous to use a remote repository.
+    When working with other people on the same files it is
+    advantageous to use a remote repository.
+
+Why might you want to always pull changes manually rather
+than having Git automatically stay up-to-date with your remote repository?
+
+    Other people might also be working on the same repo. If you are
+    always up to date with the remote, you might lose your changes. 
