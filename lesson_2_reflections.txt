@@ -36,3 +36,9 @@ Why do we represent it in the diagram the way we do?
     Git combines the two branches using the most recent commits on each branch
     and the most recent common ancestor commit. We represent it in the diagram
     this way to show a different branch going off and then returning to master.
+
+What are the pros and cons of Git’s automatic merging
+vs. always doing merges manually?
+
+    pro: saves time, removes tedious tasks
+    con: may have unwanted merges, can't read your mind
