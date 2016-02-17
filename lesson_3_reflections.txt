@@ -21,4 +21,9 @@ When would you use one instead of another?
     A fork is used to copy a remote repo on to your own github account so
     you can make changes that the original author may not want. (You must
     get permission to change another user's repo)
-    
+
+What is the benefit of having a copy of the last known state
+of the remote stored locally?
+
+    When it comes time to merge git pull the remote, it is an easy way
+    to access the remote, even when offline.
