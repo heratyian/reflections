@@ -33,4 +33,13 @@ What would be easier, and what would be harder?
 
     I would probably save multiple versions as separate files and share
     via .zip files. Easier to think about, but much harder as projects
-    become more complex. 
+    become more complex.
+
+When would you want to make changes in a separate branch
+rather than directly in master? What benefits does each approach have?
+
+    Making changes in a separate branch allows you to keep a branch of
+    production code, while also experimenting with new features.
+    When collaborating with others on GitHub, this allows you to perfect
+    a feature or pull request in isolation of others until it is ready
+    to be merged.
