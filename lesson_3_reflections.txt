@@ -27,3 +27,10 @@ of the remote stored locally?
 
     When it comes time to merge git pull the remote, it is an easy way
     to access the remote, even when offline.
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+    I would probably save multiple versions as separate files and share
+    via .zip files. Easier to think about, but much harder as projects
+    become more complex. 
